@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
-
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap);
 *
 {
     margin: 0;
@@ -198,3 +197,5 @@ p
     font-weight: 100;
     line-height: 40px;
 }
+
+/*# sourceMappingURL=main.css.map*/
